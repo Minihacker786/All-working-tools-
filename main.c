@@ -1,5 +1,19 @@
 #include <stdio.h>
 int main(){
+printf("\033[1;31m"); // set color to red
+    printf("\t\tMinihack786\n");
+    printf("\033[0m"); // reset color to default
+    printf(" _______________________________\n");
+    printf("|                               |\n");
+    printf("|    DANGEROUS HACKING TOOLS    |\n");
+    printf("|_______________________________|\n");
+    printf("        /|         |\\        \n");
+    printf("       / |         | \\       \n");
+    printf("      /  |         |  \\      \n");
+    printf("     /___|_________|___\\     \n");
+    printf("    /   /          \\   \\    \n");
+    printf("   /   /            \\   \\   \n");
+    printf("  /___/______________\\___\\  \n");
 	int a,b,c,d,e,f;
 printf("\tchose any number of tool : \n");
 	printf("\n");

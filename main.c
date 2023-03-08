@@ -2,7 +2,7 @@
 #include <stdlib.h>
 int main(){
     system("cls");  // for Windows
-    // system("clear");  // for Unix/Linux
+    system("clear");  // for Unix/Linux
 printf("\033[1;31m"); // set color to red
     printf("\t\tMinihack786\n");
     printf("\033[0m"); // reset color to default

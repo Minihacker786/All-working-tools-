@@ -10,7 +10,7 @@ These are all working tools in termux app,i have tryied all these tools on mysel
 
 - $ apt update && apt upgrade
 
-* $ git clone 
+* $ git clone https://github.com/Minihacker786/All-working-tools- 
 
 + $ cd All-working-tools-/
 
